@@ -3,3 +3,6 @@ Contador numérico com dado inicial, final e valor de salto para criar uma sequ�
 Digite um valor inicial;
 Digite um valor final, maior que o valor inicial;
 Digite um valor para ser somado ao valor inicial repetidas vezes até alcançar o valor mais próximo do valor final.
+
+Acesse através do link:
+https://viniciusy62.github.io/contagemEmSaltos/
